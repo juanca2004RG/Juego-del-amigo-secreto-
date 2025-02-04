@@ -28,6 +28,8 @@ Este es un juego simple de "Amigo Secreto" desarrollado con HTML, CSS y JavaScri
 
 🎮 Demostración de funciones y aplicaciones
 
+Video de funcionamiento (https://github.com/juanca2004RG/Juego-del-amigo-secreto-/blob/master/grabacion%20de%20funciionamiento.mp4)
+
 Agregar nombres a una lista.
 
 Sortear un amigo secreto aleatorio.
